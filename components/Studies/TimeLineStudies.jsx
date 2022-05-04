@@ -8,7 +8,7 @@ function TimeLineStudies(props) {
             <div class="container pt-8">
                 <CardYear />
                 <CardYear   title={"Master SII"}
-                            date={"30/06/2016"}
+                            date={"30 JUIN 2016"}
                             description={"Master en system informatique et logiciel "}
                 />
             </div>
